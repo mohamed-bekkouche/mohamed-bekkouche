@@ -79,7 +79,8 @@
   <img src="https://komarev.com/ghpvc/?username=yourusername&style=flat-square&color=blue" alt="Profile Views" />
 </div>
 
-<!--
-Here's a snake eating my contribution graph.
--->
-![Snake animation](https://github.com/yourusername/yourusername/blob/output/github-contribution-grid-snake.svg)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mohamed-bekkouche/mohamed-bekkouche/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mohamed-bekkouche/mohamed-bekkouche/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/mohamed-bekkouche/mohamed-bekkouche/output/github-snake.svg" />
+</picture>
